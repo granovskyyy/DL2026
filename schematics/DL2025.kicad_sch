@@ -3259,6 +3259,12 @@
 		(uuid "4eaa26fa-3f0d-49cb-a909-51a8764df20a")
 	)
 	(junction
+		(at 31.75 83.82)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "123355e5-c549-482a-977b-d40753078292")
+	)
+	(junction
 		(at 86.36 83.82)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3271,22 +3277,16 @@
 		(uuid "59bd5c37-5fc7-4cd5-9040-ef6edb42778a")
 	)
 	(junction
-		(at 31.75 45.72)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7d308cd0-dc76-4c8b-9f82-50f4ba68fdb1")
-	)
-	(junction
 		(at 17.78 19.05)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7dbf35a7-7151-402b-8d9e-97a58212485b")
 	)
 	(junction
-		(at 17.78 71.12)
+		(at 35.56 58.42)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "c723d357-b352-48e4-9b31-797fc24e5a59")
+		(uuid "a8476713-7237-437f-8500-a361a3759a1d")
 	)
 	(junction
 		(at 86.36 66.04)
@@ -3494,26 +3494,6 @@
 	)
 	(wire
 		(pts
-			(xy 20.32 167.64) (xy 19.05 194.31)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "10d9106b-1012-4c7b-ad91-bbdc8929be82")
-	)
-	(wire
-		(pts
-			(xy 33.02 144.78) (xy 33.02 130.81)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "114fbe83-7b43-4553-afa1-0a6a20b34dd2")
-	)
-	(wire
-		(pts
 			(xy 180.34 63.5) (xy 180.34 124.46)
 		)
 		(stroke
@@ -3574,16 +3554,6 @@
 	)
 	(wire
 		(pts
-			(xy 31.75 58.42) (xy 38.1 58.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "27158e9b-60e7-4485-a5df-844b98ffad51")
-	)
-	(wire
-		(pts
 			(xy 283.21 157.48) (xy 88.9 157.48)
 		)
 		(stroke
@@ -3611,16 +3581,6 @@
 			(type default)
 		)
 		(uuid "2f3e32d8-8871-4d9a-a943-618e4775abef")
-	)
-	(wire
-		(pts
-			(xy 17.78 71.12) (xy 17.78 130.81)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "311ff172-c974-4922-923a-7394f1d6c7ca")
 	)
 	(wire
 		(pts
@@ -3664,13 +3624,23 @@
 	)
 	(wire
 		(pts
-			(xy 31.75 82.55) (xy 31.75 90.17)
+			(xy 20.32 194.31) (xy 170.18 194.31)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "3458931f-5d11-4e88-8853-dc6ae9cbc5b0")
+		(uuid "33c6aa8a-738b-40f3-8822-32cadfcf18d0")
+	)
+	(wire
+		(pts
+			(xy 24.13 175.26) (xy 40.64 175.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "33fa0c9d-fd39-4c32-a456-75120ccbf8d3")
 	)
 	(wire
 		(pts
@@ -3681,16 +3651,6 @@
 			(type default)
 		)
 		(uuid "35e33f76-ddd4-41fc-86f2-594fe92bb703")
-	)
-	(wire
-		(pts
-			(xy 40.64 82.55) (xy 31.75 82.55)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "37aa4867-6569-4257-b741-93e0e6ce93ae")
 	)
 	(wire
 		(pts
@@ -3714,7 +3674,7 @@
 	)
 	(wire
 		(pts
-			(xy 16.51 144.78) (xy 16.51 170.18)
+			(xy 16.51 83.82) (xy 16.51 170.18)
 		)
 		(stroke
 			(width 0)
@@ -3774,7 +3734,7 @@
 	)
 	(wire
 		(pts
-			(xy 24.13 179.07) (xy 24.13 173.99)
+			(xy 24.13 179.07) (xy 24.13 175.26)
 		)
 		(stroke
 			(width 0)
@@ -3814,16 +3774,6 @@
 	)
 	(wire
 		(pts
-			(xy 19.05 194.31) (xy 170.18 194.31)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "51771113-c563-4b76-a4b3-cd483d3a5209")
-	)
-	(wire
-		(pts
 			(xy 171.45 142.24) (xy 171.45 96.52)
 		)
 		(stroke
@@ -3854,13 +3804,33 @@
 	)
 	(wire
 		(pts
-			(xy 17.78 71.12) (xy 19.05 71.12)
+			(xy 35.56 66.04) (xy 35.56 58.42)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "5afd8794-4c2b-44e5-8b77-c6a34e177bb9")
+		(uuid "54218518-865f-4d95-8a64-687352278032")
+	)
+	(wire
+		(pts
+			(xy 20.32 167.64) (xy 20.32 194.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5a4f26b8-edd4-4208-aa41-e29009281d53")
+	)
+	(wire
+		(pts
+			(xy 35.56 58.42) (xy 33.02 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5b2ddd8a-0dc4-41fe-83a0-7f074c1226e6")
 	)
 	(wire
 		(pts
@@ -4044,26 +4014,6 @@
 	)
 	(wire
 		(pts
-			(xy 31.75 45.72) (xy 31.75 58.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "764f7a38-453e-46f7-a9bf-df12e8625028")
-	)
-	(wire
-		(pts
-			(xy 36.83 175.26) (xy 40.64 175.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "793f154c-fdbf-499d-b745-8eb8080d0017")
-	)
-	(wire
-		(pts
 			(xy 72.39 66.04) (xy 72.39 78.74)
 		)
 		(stroke
@@ -4121,6 +4071,16 @@
 			(type default)
 		)
 		(uuid "893b0756-45bf-4675-8396-79644ba6fe84")
+	)
+	(wire
+		(pts
+			(xy 31.75 66.04) (xy 31.75 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8a2ce97f-37a1-455e-9289-aa3d1f772182")
 	)
 	(wire
 		(pts
@@ -4214,7 +4174,7 @@
 	)
 	(wire
 		(pts
-			(xy 17.78 45.72) (xy 31.75 45.72)
+			(xy 17.78 45.72) (xy 133.35 45.72)
 		)
 		(stroke
 			(width 0)
@@ -4234,7 +4194,7 @@
 	)
 	(wire
 		(pts
-			(xy 17.78 45.72) (xy 17.78 71.12)
+			(xy 17.78 45.72) (xy 17.78 58.42)
 		)
 		(stroke
 			(width 0)
@@ -4304,6 +4264,16 @@
 	)
 	(wire
 		(pts
+			(xy 31.75 66.04) (xy 35.56 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b3ddf847-3291-4188-86df-db4af356f87f")
+	)
+	(wire
+		(pts
 			(xy 40.64 165.1) (xy 35.56 165.1)
 		)
 		(stroke
@@ -4314,13 +4284,13 @@
 	)
 	(wire
 		(pts
-			(xy 40.64 71.12) (xy 40.64 82.55)
+			(xy 16.51 83.82) (xy 31.75 83.82)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "b58ce9e2-32fd-4c3d-8f19-8ce4b51df6cc")
+		(uuid "b796b532-47de-4d5e-ac93-156692f03a7c")
 	)
 	(wire
 		(pts
@@ -4341,6 +4311,16 @@
 			(type default)
 		)
 		(uuid "bb3310ae-1785-4fbb-a209-2ee521f8351d")
+	)
+	(wire
+		(pts
+			(xy 31.75 83.82) (xy 31.75 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bd6f2829-cd1a-4b19-ad36-ec9c665676bd")
 	)
 	(wire
 		(pts
@@ -4454,16 +4434,6 @@
 	)
 	(wire
 		(pts
-			(xy 16.51 144.78) (xy 33.02 144.78)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d77a45aa-65b3-4ecd-9de4-130d3fa593ad")
-	)
-	(wire
-		(pts
 			(xy 44.45 73.66) (xy 44.45 139.7)
 		)
 		(stroke
@@ -4481,16 +4451,6 @@
 			(type default)
 		)
 		(uuid "d9e7bb86-8f24-412b-9f6d-c6411572e426")
-	)
-	(wire
-		(pts
-			(xy 36.83 173.99) (xy 36.83 175.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dcf4ef45-01e3-4379-93c9-6774fbb5ebe1")
 	)
 	(wire
 		(pts
@@ -4524,6 +4484,16 @@
 	)
 	(wire
 		(pts
+			(xy 25.4 66.04) (xy 25.4 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e5f1f9a7-1d7a-4eb4-9e09-3e41cd8f15b0")
+	)
+	(wire
+		(pts
 			(xy 105.41 119.38) (xy 105.41 123.19)
 		)
 		(stroke
@@ -4534,7 +4504,7 @@
 	)
 	(wire
 		(pts
-			(xy 86.36 58.42) (xy 53.34 58.42)
+			(xy 86.36 58.42) (xy 35.56 58.42)
 		)
 		(stroke
 			(width 0)
@@ -4551,16 +4521,6 @@
 			(type default)
 		)
 		(uuid "e9a18dd9-b20c-403e-ba93-5658f87c7fbe")
-	)
-	(wire
-		(pts
-			(xy 24.13 173.99) (xy 36.83 173.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ec0326b1-8fa2-41bb-abdb-d35b39413bb2")
 	)
 	(wire
 		(pts
@@ -4604,16 +4564,6 @@
 	)
 	(wire
 		(pts
-			(xy 34.29 71.12) (xy 40.64 71.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f4a9c4db-701d-46ab-84fe-bfb73f9b8575")
-	)
-	(wire
-		(pts
 			(xy 86.36 58.42) (xy 86.36 66.04)
 		)
 		(stroke
@@ -4651,16 +4601,6 @@
 			(type default)
 		)
 		(uuid "fd67f3e2-2d6e-4b7b-872f-eab8f863f1e7")
-	)
-	(wire
-		(pts
-			(xy 31.75 45.72) (xy 133.35 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fe7c7910-c158-4089-9085-63300a1cfaa5")
 	)
 	(symbol
 		(lib_id "MCU_Microchip_ATmega:ATmega328PB-A")
@@ -4884,142 +4824,6 @@
 			(project ""
 				(path "/879e6a66-d52a-45ae-b581-0c58cb136e85"
 					(reference "#PWR02")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 26.67 78.74 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "3e6bb921-42f0-4310-8214-f08a9791b73d")
-		(property "Reference" "#PWR07"
-			(at 26.67 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 26.67 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 26.67 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 26.67 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 26.67 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "400a3c21-cbb8-4e5b-8ad5-1890b7f2d8d4")
-		)
-		(instances
-			(project "DL2025"
-				(path "/879e6a66-d52a-45ae-b581-0c58cb136e85"
-					(reference "#PWR07")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Regulator_Linear:AMS1117-3.3")
-		(at 25.4 130.81 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4c6be4da-e5be-4bf2-a352-6706fc49a17f")
-		(property "Reference" "U9"
-			(at 25.4 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "AMS1117-3.3"
-			(at 25.4 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-223-3_TabPin2"
-			(at 25.4 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.advanced-monolithic.com/pdf/ds1117.pdf"
-			(at 27.94 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "1A Low Dropout regulator, positive, 3.3V fixed output, SOT-223"
-			(at 25.4 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "9ff294e9-08dc-40c7-a927-d8d38e7c4eaf")
-		)
-		(pin "1"
-			(uuid "7a59a036-ddd7-4569-988f-7a0846308a61")
-		)
-		(pin "2"
-			(uuid "3897b5af-51bf-45fc-83a0-78e9ab6817f3")
-		)
-		(instances
-			(project "DL2025"
-				(path "/879e6a66-d52a-45ae-b581-0c58cb136e85"
-					(reference "U9")
 					(unit 1)
 				)
 			)
@@ -5481,71 +5285,6 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 25.4 138.43 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "872bd8b6-3adf-415a-bd8b-a4ed74598b56")
-		(property "Reference" "#PWR09"
-			(at 25.4 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 25.4 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 25.4 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 25.4 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 25.4 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "d5fe0bbd-423d-4ac2-b5aa-3eac1bfd8a2b")
-		)
-		(instances
-			(project "DL2025"
-				(path "/879e6a66-d52a-45ae-b581-0c58cb136e85"
-					(reference "#PWR09")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
 		(at 105.41 123.19 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5816,7 +5555,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 45.72 66.04 0)
+		(at 25.4 71.12 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5824,7 +5563,7 @@
 		(dnp no)
 		(uuid "b59d4588-b7fa-4718-87fe-3ebb785dca6d")
 		(property "Reference" "#PWR04"
-			(at 45.72 72.39 0)
+			(at 25.4 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5833,7 +5572,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 45.72 70.104 0)
+			(at 25.4 75.184 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5841,7 +5580,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 45.72 66.04 0)
+			(at 25.4 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5850,7 +5589,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 45.72 66.04 0)
+			(at 25.4 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5859,7 +5598,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 45.72 66.04 0)
+			(at 25.4 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6012,7 +5751,7 @@
 	)
 	(symbol
 		(lib_id "Regulator_Linear:AMS1117-3.3")
-		(at 45.72 58.42 0)
+		(at 25.4 58.42 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6021,7 +5760,7 @@
 		(fields_autoplaced yes)
 		(uuid "cdfd5a9a-1ff9-4347-9f56-0d2133871df4")
 		(property "Reference" "U6"
-			(at 45.72 52.07 0)
+			(at 25.4 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6029,7 +5768,7 @@
 			)
 		)
 		(property "Value" "AMS1117-3.3"
-			(at 45.72 54.61 0)
+			(at 25.4 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6037,7 +5776,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-223-3_TabPin2"
-			(at 45.72 53.34 0)
+			(at 25.4 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6046,7 +5785,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.advanced-monolithic.com/pdf/ds1117.pdf"
-			(at 48.26 64.77 0)
+			(at 27.94 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6055,7 +5794,7 @@
 			)
 		)
 		(property "Description" "1A Low Dropout regulator, positive, 3.3V fixed output, SOT-223"
-			(at 45.72 58.42 0)
+			(at 25.4 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6076,77 +5815,6 @@
 			(project ""
 				(path "/879e6a66-d52a-45ae-b581-0c58cb136e85"
 					(reference "U6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Regulator_Linear:AMS1117-3.3")
-		(at 26.67 71.12 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e4504a1d-21d7-4027-814c-467b1f63db4f")
-		(property "Reference" "U7"
-			(at 26.67 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "AMS1117-3.3"
-			(at 26.67 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-223-3_TabPin2"
-			(at 26.67 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.advanced-monolithic.com/pdf/ds1117.pdf"
-			(at 29.21 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "1A Low Dropout regulator, positive, 3.3V fixed output, SOT-223"
-			(at 26.67 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "3976b175-5edb-4278-87b1-56d2f38d7090")
-		)
-		(pin "1"
-			(uuid "5f701f7e-1279-4ecd-b5fd-df780085b733")
-		)
-		(pin "2"
-			(uuid "9c6e2ef6-6117-4439-b17d-35712ebc1a19")
-		)
-		(instances
-			(project "DL2025"
-				(path "/879e6a66-d52a-45ae-b581-0c58cb136e85"
-					(reference "U7")
 					(unit 1)
 				)
 			)
