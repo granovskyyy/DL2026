@@ -15,4 +15,4 @@ Overall structure of the project is:
     -> schematics folder - containing Electric Schematic and PCB design of the circuit.
     -> Final Project folder - containing final versions of the software used to read and display the data from sensors.
 
-Firmware was written in C++ to maintain high readability, modularity and speed of the code, as well as future development of the project.
+Firmware was written in C to maintain high readability, modularity and speed of the code, as well as future development of the project.
