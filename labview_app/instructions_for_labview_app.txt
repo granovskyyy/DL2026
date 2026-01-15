@@ -1,0 +1,4 @@
+1. Na płytce wgrany jest nowy soft (nowy plik main.cpp) reszta taka sama.
+2. Podłączasz płytkę przez usb, szukasz na którym COMx porcie jest.
+3. W labview na front panelu wybierz VISA resource name -> COMx płytki
+4. Aby zacząć odczytywać dane zakładka OPERATE -> RUN
